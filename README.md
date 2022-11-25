@@ -4,8 +4,8 @@ The temperature is less than 25°C, the fan speed decreases, and the heater will
 
 # proteus simulation
 <p align="center">
-	<img src="./Assets/Screenshot_20221125_064954.png" />
+	<img src="./Screenshot_20221125_064954.png" />
   <p align="center">
-	<img src="./Assets/Screenshot_20221125_065050.png" />
+	<img src="./Screenshot_20221125_065050.png" />
   <p align="center">
-	<img src="./Assets/Screenshot_20221125_065136.png" />
+	<img src="./Screenshot_20221125_065136.png" />
